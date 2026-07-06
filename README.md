@@ -21,6 +21,8 @@ Security enhancements and improved customer experience is what makes the module 
 
 * Two-stage verification process for Magento 2 account deletion for better security.
 
-For more information, visit [https://meetanshi.com/magento-2-delete-account.html](https://meetanshi.com/magento-2-delete-account.html)
+For more information, visit ***[https://meetanshi.com/magento-2-delete-account.html](https://meetanshi.com/magento-2-delete-account.html)***
 
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento/delete-account/](https://meetanshi.com/docs/magento/delete-account/)***
 
